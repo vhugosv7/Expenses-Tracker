@@ -1,4 +1,3 @@
-#  Ready to upload
 import csv
 import datetime
 import pandas as pd
