@@ -1,0 +1,16 @@
+amount,category,date,description,id
+185.0,Software,2024-04-25,this is other line,Soft2024-04-251
+120.0,Software,2024-04-15,Software expense,Soft2024-04-152
+456.0,Software,2024-04-05,id test,Soft2024-04-052
+414.0,Software,2024-12-25,testing saved,Soft2024-12-257
+145.0,Software,2024-12-19,sdguy,Soft2024-12-195
+300.0,Utilities,2024-12-15,Description updated on Monday 20th 2025,Util2024-12-154
+122.5,Software,2024-12-12,More tests,Soft2024-12-1212
+950.0,Office Supplies,2025-01-20,First expense of the year,Offi2025-01-2036
+265.5,Software,2025-01-21,Second expense,Soft2025-01-2145
+800.0,Software,2025-01-21,Testing software,Soft2025-01-2115
+25.14,Utilities,2025-01-20,other expense,Util2025-01-2027
+250.0,Software,2025-01-23,other,Soft2025-01-2352
+360.5,Utilities,2025-01-23,utilities,Util2025-01-2354
+52.6,Software,2024-12-25,Test,Soft2024-12-2518
+163.5,Utilities,2025-01-24,Utilities expense,Util2025-01-2419
